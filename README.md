@@ -2,6 +2,7 @@
 
 ### I'm a Front-End Developer !!
 
+<hr>
 - I m a Front-End developer , i m curious and i enjoy work that challenges me to learn something new.
 
 -🔭 I’m currently working on  Fiverr as Freelancer .<br/>
