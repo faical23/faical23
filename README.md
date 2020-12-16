@@ -1,6 +1,8 @@
 ### Hi I'm FAICAL BAHSIS 👋
 
-### I'm a Front-End Developer, and Ux Designer !!
+### I'm a Front-End Developer !!
+
+-     I m a Front-End developer , i m curious and i enjoy work that challenges me to learn something new and stretch in a different direction .
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
