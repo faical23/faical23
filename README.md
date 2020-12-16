@@ -8,5 +8,9 @@
 -🔭 I’m currently working on  Fiverr as Freelancer .<br/>
 -🌱 I’m currently learning everythings .<br/>
 -👯 I’m looking to collaborate on with any one have a projet Frent-end .<br/>
--📫 How to reach me: <a href="https://twitter.com/FBahsis">twitter<a/> .<br/>
+-📫 How to reach me: [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+ .<br/>
 -⚡ Fun fact: I'm Bboy i love Breakdance .<br/>
+
+
+[twitter] : https://twitter.com/FBahsis
