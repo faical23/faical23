@@ -8,7 +8,10 @@
 -🔭 I’m currently working on  Fiverr as Freelancer .<br/>
 -🌱 I’m currently learning everythings .<br/>
 -👯 I’m looking to collaborate on with any one have a projet Frent-end .<br/>
--📫 How to reach me: <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />.
+-📫 How to reach me:<a href="https://twitter.com/bboyaitsi" target="_blank">
+                    <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+                    </a>.
+<br/>
 -⚡ Fun fact: I'm Bboy i love Breakdance .<br/>
 
 
