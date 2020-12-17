@@ -36,9 +36,10 @@
 <br/>
 <hr>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+<a href="https://github.com/0x1e0000/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x1e0000&layout=compact&theme=synthwave" alt="Mohamed's most used languages" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/0x1e0000/">
+  <img align="center" height=200 width=450 src="https://github-readme-stats.vercel.app/api?username=0x1e0000&show_icons=true&theme=synthwave&count_private=true&include_all_commits=true&hide=stars" alt="Mohamed Stats" />
 </a>
+
