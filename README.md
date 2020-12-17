@@ -40,6 +40,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x1e0000&layout=compact&theme=synthwave" alt="faical's most used languages" />
 </a>
 <a href="https://github.com/faical23">
-  <img align="center" height=200 width=450 src="https://github-readme-stats.vercel.app/api?username=0x1e0000&show_icons=true&theme=synthwave&count_private=true&include_all_commits=true&hide=stars" alt="FAICAL Stats" />
+  <img align="center" height=200 width=450 src="https://github-readme-stats.vercel.app/api?username=faical23" alt="FAICAL Stats" />
 </a>
 
