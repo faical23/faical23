@@ -40,6 +40,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faical23" alt="faical's most used languages" />
 </a>
 <a href="https://github.com/faical23">
-  <img align="center" height=200 width=450 src="https://github-readme-stats.vercel.app/api?username=faical23" alt="FAICAL Stats" />
+  <img align="center" height=200 width=450 src="https://github-readme-stats.vercel.app/api?username=faical23&show_icons=true&theme=radical" alt="FAICAL Stats" />
 </a>
 
