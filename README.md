@@ -37,7 +37,7 @@
 <hr>
 
 <a href="https://github.com/faical23">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbouamair&layout=compact&theme=synthwave" alt="Hamza's most used languages" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=faical23&layout=compact&theme=synthwave" alt="Hamza's most used languages" />
 </a>
 
 
