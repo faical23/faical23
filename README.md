@@ -1,10 +1,10 @@
 ### Hi I'm FAICAL BAHSIS 👋
 
-### I'm a Front-End Developer !!
+### I'm a Front-End Web !!
 
 <hr>
 
-- I m a Front-End developer , i m curious and i enjoy work that challenges me to learn something new.
+- I m a Front-End web , i m curious and i enjoy work that challenges me to learn something new.
 <br/><br/>
 -🔭 I’m currently working on  Fiverr as Freelancer .<br/>
 -🌱 I’m currently learning everythings .<br/>
