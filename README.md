@@ -42,5 +42,5 @@
 </a>
 
 <a href="#stats">
-<img align="center" src = "https://github-readme-stats.vercel.app/api?username=faical23/">
+<img align="center" src = "https://github-readme-stats-git-master.pranavgpr.vercel.app/api/top-langs/?username=faical23&layout=compact" />
 </a>
