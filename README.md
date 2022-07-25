@@ -1,6 +1,6 @@
 ### Hi I'm FAICAL BAHSIS 👋
 
-### I'm a Front-End Web !!
+### I'm a Fullstack web devloper !!
 
 <hr>
 
