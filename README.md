@@ -4,7 +4,7 @@
 
 <hr>
 
-- I m a Front-End web , i m curious and i enjoy work that challenges me to learn something new.
+- I m a Fullstack web devloper , i m curious and i enjoy work that challenges me to learn something new.
 <br/><br/>
 -🔭 I’m currently working on  Fiverr as Freelancer .<br/>
 -🌱 I’m currently learning everythings .<br/>
