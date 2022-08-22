@@ -10,7 +10,6 @@
 -🌱 I’m currently learning everythings .<br/>
 -👯 I’m looking to collaborate on with any one have a projet Frent-end .<br/>
 -📫 How to reach me: <a href="https://twitter.com/FBahsis">Twitter</a><br/>
--⚡ Fun fact: I'm Bboy i love Breakdance .<br/>
 
 
 
