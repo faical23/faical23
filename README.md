@@ -8,7 +8,6 @@
 <br/><br/>
 -🔭 I’m currently working on  Algo consulting group as fullstack devloper .<br/>
 -🌱 I’m currently learning everythings .<br/>
--👯 I’m looking to collaborate on with any one have a projet Frent-end .<br/>
 -📫 How to reach me: <a href="https://twitter.com/FBahsis">Twitter</a><br/>
 
 
