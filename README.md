@@ -45,6 +45,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faical23&layout=compact&hide=moocode,boo&langs_count=6)](https://github.com/faical23)
 
 
-<a href="#stats">
-<img align="center" src = "https://github-readme-stats-git-master.pranavgpr.vercel.app/api/top-langs/?username=faical23&layout=compact" />
-</a>
