@@ -6,7 +6,7 @@
 
 - I m a Fullstack web devloper , i m curious and i enjoy work that challenges me to learn something new.
 <br/><br/>
--🔭 I’m currently working on  Algo consulting group as fullstack devloper .<br/>
+-🔭 I’m currently working on  Nuitee as fullstack engineer .<br/>
 -🌱 I’m currently learning everythings .<br/>
 -📫 How to reach me: <a href="https://twitter.com/FBahsis">Twitter</a><br/>
 
