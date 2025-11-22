@@ -1,14 +1,14 @@
 ### Hi I'm FAICAL BAHSIS 👋
 
-### I'm a Fullstack web devloper !!
+### I'm a software engineer !!
 
 <hr>
 
-- I m a Fullstack web devloper , i m curious and i enjoy work that challenges me to learn something new.
+- I m a software engineer , i m curious and i enjoy work that challenges me to learn something new.
 <br/><br/>
--🔭 I’m currently working on  Nuitee as fullstack engineer .<br/>
+-🔭 I’m currently working on  Nuitee as software engineer .<br/>
 -🌱 I’m currently learning everythings .<br/>
--📫 How to reach me: <a href="https://twitter.com/FBahsis">Twitter</a><br/>
+-📫 How to reach me: <a href="https://faicalbahsis12.vercel.app/">Faical Bahsis</a><br/>
 
 
 
